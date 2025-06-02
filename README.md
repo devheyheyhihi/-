@@ -19,6 +19,11 @@
    - **요약**: AI와 블록체인 융합으로 데이터 신뢰성 강화. 의료, 금융 사례와 정책 제안.
    - **키워드**: 인공지능, 블록체인, 융합 기술
 
+3. **[A Study on the Use of Block Chain in the 4th Industrial Revolution Era](./papers/blockchain-4th-industrial-revolution-2018/README.md)**
+   - **출처**: Asia-Pacific Journal of Multimedia Services Convergent with Art, Humanities, and Sociology, Vol. 8, No. 9, September 2018
+   - **요약**: 4차 산업혁명 시대 블록체인 기술의 활용과 잠재력. 음악 산업에서의 저작권 관리와 수익 분배 혁신 사례.
+   - **키워드**: 4차 산업혁명, 블록체인, 암호화폐, 음악 산업
+
 ## 저서
 (저서 정리 예시를 추가할 예정)
 
