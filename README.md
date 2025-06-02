@@ -25,7 +25,12 @@
 
 ## 기술 문서 및 참고 자료
 
-1. **[SHA-3 암호화 해시 함수 (Wikipedia 기반 요약)](./papers/sha3-cryptographic-hash-function-2015/README.md)**
+1. **[Secure Hash Algorithms (SHA) - 암호화 해시 함수 패밀리](./technical-docs/secure-hash-algorithms-overview-nist/README.md)**
+   - **출처**: Wikipedia 및 NIST 공식 문서
+   - **요약**: SHA-0부터 SHA-3까지 전체 SHA 패밀리의 발전사와 특성. 각 버전별 보안성, 성능, 사용 사례를 포괄적으로 분석하고 마이그레이션 가이드라인 제시.
+   - **키워드**: SHA, NIST, FIPS, 암호화 해시, 보안 표준, 마이그레이션
+
+2. **[SHA-3 암호화 해시 함수 (Wikipedia 기반 요약)](./technical-docs/sha3-cryptographic-hash-function-2015/README.md)**
    - **출처**: Wikipedia 및 NIST 공식 문서, 2015
    - **요약**: NIST가 2015년 발표한 차세대 암호화 해시 함수 표준. Keccak 알고리즘 기반의 스펀지 구조로 SHA-2와 다른 설계 철학. 이더리움 등 블록체인에서 실제 활용.
    - **키워드**: SHA-3, Keccak, 스펀지 구조, 암호화 해시, NIST, 블록체인
