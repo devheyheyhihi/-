@@ -9,7 +9,7 @@
 
 ## 논문
 
-1. **Prediction of compounds affecting makgeolli aroma through multivariate analysis**
+1. **[Prediction of compounds affecting makgeolli aroma through multivariate analysis](./papers/makgeolli-aroma-multivariate-analysis-2025/README.md)**
    - **출처**: Food Science and Preservation, Vol. 32, No. 2, 2025
    - **요약**: 상업용 막걸리의 휘발성 성분과 관능적 특성을 다변량 분석으로 분석. 주요 향기 성분(Isoamyl alcohol, ethyl caprate 등) 확인.
    - **키워드**: 막걸리, 향기, GC-O, OAV
